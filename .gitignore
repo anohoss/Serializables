@@ -1,11 +1,11 @@
 # Unity
-Projects/Serializables/Library/
-Projects/Serializables/Temp/
-Projects/Serializables/obj/
-Projects/Serializables/Logs/
-Projects/Serializables/UserSettings/
-Projects/Serializables/*.csproj
-Projects/Serializables/*.sln
+src/Serializables/Library/
+src/Serializables/Temp/
+src/Serializables/obj/
+src/Serializables/Logs/
+src/Serializables/UserSettings/
+src/Serializables/*.csproj
+src/Serializables/*.sln
 
 # Visual Studio
 .vs/
